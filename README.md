@@ -1,2 +1,2 @@
 # Qiushui_LLM_Dev_Study
-大语言模型开发教程
+LangChian 学习代码示例
