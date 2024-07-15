@@ -1,4 +1,46 @@
 test/
-.ipynb_checkpoints/
-.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Install logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
 .env
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Ignore SQLite database files
+*.sqlite3
+
+# Ignore all log files and temp files
+*.log
+*.tmp
+
+# Ignore any files related to macOS
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other editor temporary files
+*~ 
